@@ -1,11 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@700&display=swap");
 /* font-family: 'Gentium Book Plus', serif; */
 
-@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
-/* font-family: 'Indie Flower', cursive; */
-
-@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
-/* font-family: 'Amatic SC', cursive; */
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap');
 
 .main-background {
   padding-top: 5rem;
