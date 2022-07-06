@@ -31,3 +31,7 @@
 .text-dark {
   background-color: aqua;
 }
+
+.text-white {
+  font-family: "Gentium Book Plus", serif;
+}
