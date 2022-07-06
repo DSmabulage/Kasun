@@ -1,5 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:wght@700&display=swap");
+/* font-family: 'Gentium Book Plus', serif; */
+
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap");
+/* font-family: 'Indie Flower', cursive; */
+
+@import url("https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap");
+/* font-family: 'Amatic SC', cursive; */
+
 .main-background {
   background-image: url(images/main-background.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.first-sec {
+  background-image: url(images/1.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.second-sec {
+  background-image: url(images/2.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.contact-sec {
+  background-image: url(images/3.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
