@@ -1,5 +1,5 @@
 .main-background {
-  background: url(/images/main-background.jpg) no-repeat;
+  background: url("images/main-background.jpg") no-repeat;
   background-size: 100%;
 }
 
