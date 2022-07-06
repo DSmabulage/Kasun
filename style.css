@@ -15,21 +15,21 @@
   background-size: 100%;
 }
 .first-sec {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 7rem;
+  padding-bottom: 7rem;
   background-image: url(images/1.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
 .second-sec {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-top: 8rem;
+  padding-bottom: 8rem;
   background-image: url(images/2.jpg);
   background-repeat: no-repeat;
   background-size: 100%;
 }
 .contact-sec {
-  padding-top: 6rem;
+  padding-top: 8rem;
   padding-bottom: 6rem;
   background-image: url(images/3.jpg);
   background-repeat: no-repeat;
